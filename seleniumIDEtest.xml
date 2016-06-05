@@ -4,7 +4,7 @@
 <suite name="Selenium IDE Test">
   <test name="Selenium IDE Exported Test">
     <classes>
-      <class name="SeleniumIDETestExported"/>
+      <class name="SeleniumIDETest.SeleniumIDETestExported"/>
     </classes>
   </test>
 </suite>
